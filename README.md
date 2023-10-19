@@ -54,5 +54,3 @@ Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato
 **Nota:** Este é um projeto de exemplo e não deve ser usado para substituir ou reproduzir o WhatsApp oficial. Este projeto foi desenvolvido apenas para fins educacionais e de aprendizado.
 
 ---
-
-Sinta-se à vontade para adicionar ou modificar informações conforme necessário. Lembre-se de substituir os espaços reservados pelos detalhes específicos do seu projeto. Boa sorte com o seu clone do WhatsApp em Java!
